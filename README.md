@@ -7,7 +7,7 @@ cSmartML is an automated clustering tool that uses meta-learning and evolutionar
 
 ## Download cSmartML
 ```
-git clone https://github.com/DataSystemsGroupUT/CSmartML.git
+git clone https://github.com/rgb-cymk-hsla/csmartml.git
 ```
 
 To start the two servers:
