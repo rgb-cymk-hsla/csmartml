@@ -10,7 +10,7 @@ cSmartML is an automated clustering tool that uses meta-learning and evolutionar
 git clone https://github.com/rgb-cymk-hsla/csmartml.git
 ```
 
-To start the two servers:
+Install dependencies [here](https://github.com/rgb-cymk-hsla/csmartml/blob/main/server/dependencies.txt) and start the two servers:
 
 ## (1) Python Flask Server:
 ```
